@@ -1,0 +1,35 @@
+{
+  "workbench.startupEditor": "none",
+  "editor.fontFamily": "JetBrains Mono",
+  "editor.fontSize": 16,
+  "editor.rulers": [80, 120],
+  "editor.lineHeight": 26,
+  "workbench.editor.labelFormat": "short",
+  "explorer.compactFolders": false,
+  "editor.fontLigatures": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "[prisma]": {
+    "editor.defaultFormatter": "Prisma.prisma"
+  },
+  "material-icon-theme.folders.associations": {
+    "use-cases": "functions",
+    "useCases": "functions",
+    "usecases": "functions",
+    "migrations": "tools",
+    "typeorm": "database",
+    "dtos": "typescript",
+    "repositories": "mappings",
+    "mongodb": "database",
+    "MongoDB": "database",
+    "pg": "database",
+    "PG": "database",
+    "entities": "class"
+  },
+  "workbench.productIconTheme": "fluent-icons",
+  "extensions.ignoreRecommendations": true,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.foldingMaximumRegions": 10000
+}
