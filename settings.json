@@ -31,5 +31,6 @@
   "workbench.productIconTheme": "fluent-icons",
   "extensions.ignoreRecommendations": true,
   "security.workspace.trust.untrustedFiles": "open",
-  "editor.foldingMaximumRegions": 10000
+  "editor.foldingMaximumRegions": 10000,
+  "workbench.colorTheme": "Min Dark"
 }
